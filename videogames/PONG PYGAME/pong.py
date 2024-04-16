@@ -1,3 +1,5 @@
+# https://www.geeksforgeeks.org/create-a-pong-game-in-python-pygame/
+
 import pygame
  
 pygame.init()
@@ -19,7 +21,6 @@ clock = pygame.time.Clock()
 FPS = 30
  
 # Striker class
- 
  
 class Striker:
         # Take the initial position, dimensions, speed and color of the object

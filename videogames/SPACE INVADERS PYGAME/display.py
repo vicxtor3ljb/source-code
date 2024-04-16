@@ -1,3 +1,5 @@
+# https://thepythoncode.com/article/make-a-space-invader-game-in-python?utm_content=cmp-true
+
 import pygame
 from settings import WIDTH, HEIGHT, SPACE, FONT_SIZE, EVENT_FONT_SIZE
 
